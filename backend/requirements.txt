@@ -1,0 +1,8 @@
+fastapi[stable]
+uvicorn
+sqlalchemy
+psycopg2-binary
+pymongo
+redis
+passlib[bcrypt]
+pyjwt
